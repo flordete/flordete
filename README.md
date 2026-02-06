@@ -1,6 +1,6 @@
 # ✨ Hi, I'm Flor 
 
-Frontend Developer | React, Next.js, TypeScript, Tailwind, shadcn/ui | Passionate about UX & performance  
+Frontend Developer | React, Next.js, TypeScript, Tailwind | Passionate about UX & performance  
 
 📍 Spain  
 🌸 [Portfolio](https://flor-esteller.netlify.app/)  
@@ -8,7 +8,7 @@ Frontend Developer | React, Next.js, TypeScript, Tailwind, shadcn/ui | Passionat
 ## 💻 Technical Skills
 - **Frontend:** HTML, CSS, JavaScript   
 - **Data:** SQL, Python    
-- **Other:** Responsive design, accessibility best practices
+- **Design:** Responsive design, accessibility best practices
 - **Other:** Figma, Wordpress, Elementor, Crocoblocks
 
 ---
@@ -22,7 +22,6 @@ Frontend Developer | React, Next.js, TypeScript, Tailwind, shadcn/ui | Passionat
 - Proactive
 
 ---
-
 
 ## 🖥️ Featured Projects
 ### [We Bloom Agency](https://webloomagency.com/)
@@ -40,7 +39,7 @@ Modern and responsive ecommerce website for a specialty coffee brand, designed f
 I’m open to collaborations and new opportunities!  
 
 - **Email:** [floresteller@gmail.com](mailto:floresteller@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/florencia-esteller/](www.linkedin.com/in/florencia-esteller)
+- **LinkedIn:** [linkedin.com/in/florencia-esteller/]([www.linkedin.com/in/florencia-esteller](https://www.linkedin.com/in/florencia-esteller/))
 
 ---
 
