@@ -39,7 +39,7 @@ Modern and responsive ecommerce website for a specialty coffee brand, designed f
 I’m open to collaborations and new opportunities!  
 
 - **Email:** [floresteller@gmail.com](mailto:floresteller@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/florencia-esteller/]([www.linkedin.com/in/florencia-esteller](https://www.linkedin.com/in/florencia-esteller/))
+- **LinkedIn:** [linkedin.com/in/florencia-esteller/](https://www.linkedin.com/in/florencia-esteller/)
 
 ---
 
