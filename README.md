@@ -10,7 +10,7 @@ Frontend Developer | React, Next.js, TypeScript, Tailwind | Passionate about UX 
 - **Data:** SQL, Python, MySQL   
 - **Design:** Responsive design, accessibility best practices
 - **CMS & Ecommerce:**  Wordpress, Elementor, , WooCommerce, Crocoblocks
-- **Tools:** Figma, Git
+- **Tools:** Figma, Github
 
 ---
 
