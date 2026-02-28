@@ -2,7 +2,7 @@
   
 # ☁️⋆ ˚｡ Hi, I'm Flor ｡˚⋆☁️
 
-Frontend Developer | React, Next.js, TypeScript, Tailwind | Passionate about UX & performance  
+## Frontend Developer | React, Next.js, TypeScript, Tailwind | Passionate about UX & performance  
 
 📍 Spain  
 🌸 [Portfolio](https://flor-esteller.netlify.app/)
